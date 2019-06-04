@@ -1,1 +1,3 @@
 # typeSystem
+
+Now there is a `JSPrototype.js` which is a demonstrative implementation of the idea....
